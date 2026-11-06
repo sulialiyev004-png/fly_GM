@@ -1,0 +1,7 @@
+fly+1 vs random seed=4 game 1: fly white 1-0 score 1.0 plies 67 swing/move +0.82 blunders 2 7280s brain-runs/move 235
+   1. d4 e6 2. Nh3 Qe7 3. c3 Nc6 4. d5 b6 5. Bf4 a6 6. b4 Na7 7. Bxc7 Qd8 8. Bxd8 Nf6 9. a3 Bd6 10. Bxf6 Rg8 11. a4 Bc5 12. Bh4 f6 13. e3 Nb5 14. Ng5 f5 15. g3 e5 16. Bh3 Rf8 17. Nxh7 Ra7 18. Nf6+ gxf6 19. Bxf6 Nxc3 20. Bg7 Be7 21. Bg2 Bf6 22. Nxc3 Ke7 23. a5 Rd8 24. Bxf6+ Kf7 25. Na4 Kf8 26. Rf1 Kg8 27. Bh3 e4 28. axb6 a5 29. bxa7 Re8 30. Bc3 f4 31. Be6+ Rxe6 32. a8=R Rg6 33. Rxc8+ Kh7 34. Rh8#
+fly+1 vs random seed=4 game 2: fly black 0-1 score 1.0 plies 20 swing/move +0.44 blunders 0 533s brain-runs/move 225
+   1. c3 d5 2. f3 d4 3. e3 Nh6 4. Ba6 bxa6 5. a3 d3 6. e4 Bh3 7. c4 Bxg2 8. b4 c6 9. Bb2 e6 10. Bc1 Qh4#
+fly+1 vs random seed=4 game 3: fly white 1-0 score 1.0 plies 80 swing/move +0.45 blunders 0 1863s brain-runs/move 266
+   1. d4 e6 2. Nh3 h6 3. Nd2 Ke7 4. c4 Qe8 5. d5 g5 6. g3 exd5 7. b3 Rh7 8. f3 Ke6 9. e3 dxc4 10. Nb1 Rh8 11. Bb2 Ke7 12. Be5 a6 13. Bg2 c5 14. Bxh8 d6 15. O-O Nc6 16. bxc4 Nd8 17. g4 Qa4 18. Nd2 Qd7 19. Kf2 Qc7 20. e4 Rb8 21. Ke2 Bg7 22. Nb1 Bf5 23. exf5 Ne6 24. Kf2 f6 25. Bxg7 b6 26. Bh8 Kd8 27. Re1 Qc6 28. Rh1 Qd7 29. f4 Nf8 30. Rg1 Qf7 31. Re1 Qd5 32. Bxd5 Kc8 33. Be6+ Kc7 34. a3 Rd8 35. Rf1 Nd7 36. a4 gxf4 37. Ke1 Nf8 38. Nd2 d5 39. Rf2 Ra8 40. Nf1 Re8
+RESULT fly+1 vs random seed=4: +3 =0 -0  score 1.00  swing/move +0.598  blunder rate 0.024  moves 82

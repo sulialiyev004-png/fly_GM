@@ -1,0 +1,43 @@
+# ===== FlyGM .gitignore =====
+
+# Connectome data + generated cache (too large for GitHub).
+# Re-download / rebuild per the README "run" section
+# (github.com/philshiu/Drosophila_brain_model and github.com/flyconnectome/flywire_annotations).
+data/
+
+# Any large data file anywhere, as a safety net (>50 MB connectome dumps, caches)
+*.parquet
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local tooling
+.claude/
+.vscode/
+
+# Generated media output
+dreams/
+*.mp4
+*.avi
+*.mov

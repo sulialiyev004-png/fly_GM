@@ -1,0 +1,3 @@
+fly8 vs greedy seed=16 game 1: fly white 1-0 score 1.0 plies 43 swing/move +0.33 blunders 2 815s brain-runs/move 270
+   1. a3 a6 2. g3 e5 3. Nf3 Bxa3 4. Rxa3 Nc6 5. d3 Na7 6. Rg1 Qg5 7. Bxg5 e4 8. dxe4 Ne7 9. Rc3 h6 10. Bc1 g5 11. e5 d5 12. Rxc7 Bg4 13. c3 Bxf3 14. exf3 a5 15. g4 Rb8 16. Rxe7+ Kxe7 17. c4 dxc4 18. Bxg5+ hxg5 19. h3 Rxh3 20. Rg3 Rxg3 21. fxg3 Ke6 22. Qd6#
+RESULT fly8 vs greedy seed=16: +1 =0 -0  score 1.00  swing/move +0.333  blunder rate 0.095  moves 21

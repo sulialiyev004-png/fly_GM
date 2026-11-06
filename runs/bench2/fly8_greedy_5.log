@@ -1,0 +1,3 @@
+fly8 vs greedy seed=5 game 1: fly black 0-1 score 1.0 plies 80 swing/move +0.44 blunders 1 1304s brain-runs/move 239
+   1. a4 a6 2. g3 d6 3. f3 a5 4. e4 g5 5. Nh3 f6 6. Nxg5 fxg5 7. c4 g4 8. fxg4 d5 9. exd5 Kf7 10. Kf2 Bg7 11. Ke2 Bh6 12. Na3 Bg5 13. d6 Bxg4+ 14. Kd3 Bxd1 15. d7 c5 16. Nc2 Ra7 17. b4 b6 18. bxc5 Ke6 19. cxb6 Ra8 20. Na3 Bg4 21. Rb1 Bf5+ 22. Kc3 Bf6+ 23. Kb3 Bxb1 24. Nxb1 Ba1 25. Bd3 h6 26. Bf5+ Kxf5 27. Rf1+ Ke5 28. c5 Kd5 29. c6 Rh7 30. Ba3 e5 31. Bd6 Ke6 32. Bxb8 Ne7 33. Bxe5 Kxe5 34. Kc4 Ke4 35. Rf5 Kxf5 36. d4 Rh8 37. Kb3 Ke6 38. Kc2 Rg8 39. h4 Rh8 40. Kd2 Rf8
+RESULT fly8 vs greedy seed=5: +1 =0 -0  score 1.00  swing/move +0.436  blunder rate 0.026  moves 39

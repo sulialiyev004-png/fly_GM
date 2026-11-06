@@ -1,0 +1,11 @@
+start: runs\mb_w15.npz, n=0
+n=10  dopamine^2 last50 0.000  (average-guess 0.000)  ply 13
+n=20  dopamine^2 last50 0.006  (average-guess 0.006)  ply 23
+n=30  dopamine^2 last50 0.179  (average-guess 0.178)  ply 33
+n=40  dopamine^2 last50 0.147  (average-guess 0.146)  ply 43
+n=50  dopamine^2 last50 0.119  (average-guess 0.119)  ply 53
+n=60  dopamine^2 last50 0.222  (average-guess 0.220)  ply 63
+n=70  dopamine^2 last50 0.459  (average-guess 0.474)  ply 73
+n=80  dopamine^2 last50 0.398  (average-guess 0.412)  ply 83
+game 1: * after 92 plies
+done: n=89, dopamine^2 0.306 vs average-guess 0.310

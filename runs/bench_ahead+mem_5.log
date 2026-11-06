@@ -1,0 +1,4 @@
+memory: n=1643
+ahead+mem seed=5 game 1: fly black 1-0 score 0.0 plies 120 swing/move -0.24 blunders 5 1821s
+   1. a4 Nc6 2. g3 g6 3. f3 Ne5 4. b4 e6 5. d3 Nxf3+ 6. Nxf3 Nf6 7. e3 Bg7 8. Ba3 d5 9. Ra2 h5 10. Ne5 Bh6 11. Nxf7 e5 12. Nxd8 Bf8 13. Qxh5 Nxh5 14. Nxb7 Ng7 15. Ra1 Rb8 16. Kd2 Rg8 17. b5 Bxb7 18. Bxf8 Nf5 19. Ra3 Ra8 20. Rb3 Rxf8 21. Rb4 Nxg3 22. hxg3 Bc8 23. b6 cxb6 24. Rxb6 axb6 25. Rh8 Bf5 26. Rxf8+ Kxf8 27. Bh3 Ke8 28. Bxf5 gxf5 29. Ke1 Kf8 30. g4 fxg4 31. e4 Kg8 32. exd5 Kg7 33. Kd2 Ra6 34. Ke2 Kh8 35. Ke3 Ra7 36. Ke4 Rb7 37. Kxe5 Kh7 38. d4 Kh6 39. Kf5 Kh5 40. Ke5 Kh6 41. Kd6 Kh5 42. Na3 Kg6 43. Nb1 Kf6 44. Nc3 Kf7 45. a5 Re7 46. axb6 Re2 47. Nxe2 Kf8 48. b7 Ke8 49. b8=Q+ Kf7 50. Qb4 Kf6 51. Qa5 Kg7 52. Ke7 Kh7 53. Qa1 Kg7 54. Qa5 Kh8 55. Qc7 Kg8 56. c3 Kg7 57. Kd6+ Kh8 58. Qb7 Kg8 59. Qa8+ Kf7 60. Qa6 Kg6
+RESULT ahead+mem seed=5: +0 =0 -1  score 0.00  swing/move -0.237  blunder rate 0.085  moves 59

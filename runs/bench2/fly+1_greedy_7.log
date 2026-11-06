@@ -1,0 +1,5 @@
+fly+1 vs greedy seed=7 game 1: fly black 0-1 score 1.0 plies 52 swing/move +0.28 blunders 2 6796s brain-runs/move 237
+   1. b3 a5 2. Nc3 Ra7 3. g3 d5 4. Nxd5 f5 5. Nxe7 Qxe7 6. e4 a4 7. bxa4 Kf7 8. Qh5+ Kf6 9. Qxh7 Ra8 10. Qxh8 Qxe4+ 11. Kd1 f4 12. Qxg8 Bg4+ 13. f3 Bxf3+ 14. Nxf3 Qxf3+ 15. Ke1 Qe4+ 16. Kf2 Bc5+ 17. d4 Bxd4+ 18. Be3 Qxe3+ 19. Kg2 Qe4+ 20. Kh3 Bxa1 21. Qxb8 Rxb8 22. gxf4 Rh8+ 23. Kg3 Qg6+ 24. Kf3 Qe8 25. Bc4 Rh3+ 26. Kg4 Qh5#
+fly+1 vs greedy seed=7 game 2: fly white 1-0 score 1.0 plies 67 swing/move -0.27 blunders 6 1572s brain-runs/move 224
+   1. d4 c5 2. dxc5 Qa5+ 3. Bd2 Qxd2+ 4. Kxd2 g5 5. Nh3 Kd8 6. Ke1 e5 7. b4 Bxc5 8. bxc5 b5 9. Na3 Na6 10. g4 Nxc5 11. f4 gxf4 12. Bg2 d6 13. Qxd6+ Nd7 14. Qd1 Bb7 15. Bxb7 e4 16. c4 bxc4 17. Rc1 Nf6 18. g5 h5 19. Ra1 Rf8 20. Bxa8 Kc7 21. Nb5+ Kb6 22. a4 Rxa8 23. a5+ Kxb5 24. Ra4 Nh7 25. a6 Nxg5 26. Rg1 Nxh3 27. Rf1 Nf6 28. Rf3 exf3 29. Ra1 fxe2 30. Qxe2 f3 31. Qd1 f2+ 32. Kd2 f1=Q 33. Rb1+ Kxa6 34. Qa4#
+RESULT fly+1 vs greedy seed=7: +2 =0 -0  score 1.00  swing/move -0.034  blunder rate 0.138  moves 58

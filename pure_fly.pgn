@@ -1,0 +1,9 @@
+[Event "Fly brain vs engine"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "FlyGM 🪰"]
+[Black "Stockfish L0"]
+[Result "0-1"]
+
+1. h4 Nf6 2. Rh3 d6 3. Rd3 d5 4. Na3 e5 5. Rg3 c6 6. f3 Nh5 7. Rg4 Bxa3 8. b4 Bxg4 9. c3 Qxh4+ 10. g3 Qxg3# 0-1
